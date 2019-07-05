@@ -1,1 +1,1 @@
-# haskell-phrases-gen
+Run: `stack run`
