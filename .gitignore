@@ -1,0 +1,5 @@
+.stack-work/
+haskell-phrases-gen.cabal
+.idea
+.vscode
+*~
